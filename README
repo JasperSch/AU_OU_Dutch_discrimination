@@ -1,7 +1,7 @@
 This code was developped for the course Applied Multivariate Statistical Analysis at KU Leuven.
 All words were downloaded from the publicly available website: woorden.org.
 (You can however use your own lists of words to perform the same kind of analysis.)
-Put all 3 files within the same folder an set the working directory accordingly. You can as well specify the full path to the csv files.
+Put all 3 files within the same folder and set the working directory accordingly. You can as well specify the full path to the csv files.
 
 If in need for a Dutch translation of parts of the code, feel free to contact me.
 
